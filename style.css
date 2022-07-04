@@ -6,6 +6,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -46,4 +50,28 @@ body {
     text-decoration: none;
     color: white;
     font-weight: 700;
+}
+
+footer p {
+    text-align: center;
+}
+
+.box-shadow {
+    box-shadow: 10px 20px 20px grey;
+    border-radius: 5px;
+
+}
+
+.first-shadow-border {
+    border-left: 7px solid tomato;
+}
+
+.second-shadow-border {
+    border-left: 7px solid blue;
+}
+
+.last-bg {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
