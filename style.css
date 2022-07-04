@@ -1,0 +1,37 @@
+.color-orange {
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.section-area {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.link-button-style {
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 7px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
